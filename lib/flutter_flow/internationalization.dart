@@ -72,7 +72,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   {
     '18gf65a3': {
       'th': 'สวัสดีผู้เยี่ยมชม1 :',
-      'en': 'Hello visitors :',
+      'en': 'Hello visitors1 :',
     },
     '9hsxnag0': {
       'th': 'หน้าหลัก',
