@@ -81,7 +81,7 @@ class _NewsWidgetState extends State<NewsWidget> {
                                         24, 0, 0, 0),
                                     child: Text(
                                       FFLocalizations.of(context).getText(
-                                        'ajj0s50v' /* สวัสดีผู้เยี่ยมชม */,
+                                        'ajj0s50v' /* สวัสดีผู้เยี่ยมชม : */,
                                       ),
                                       style: FlutterFlowTheme.of(context)
                                           .subtitle2

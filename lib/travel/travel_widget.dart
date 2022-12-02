@@ -85,7 +85,7 @@ class _TravelWidgetState extends State<TravelWidget> {
                                         24, 0, 0, 0),
                                     child: Text(
                                       FFLocalizations.of(context).getText(
-                                        's4t2jrvh' /* สวัสดีผู้เยี่ยมชม */,
+                                        's4t2jrvh' /* สวัสดีผู้เยี่ยมชม : */,
                                       ),
                                       style: FlutterFlowTheme.of(context)
                                           .subtitle2

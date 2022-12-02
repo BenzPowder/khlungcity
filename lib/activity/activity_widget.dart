@@ -80,7 +80,7 @@ class _ActivityWidgetState extends State<ActivityWidget> {
                                           24, 0, 0, 0),
                                       child: Text(
                                         FFLocalizations.of(context).getText(
-                                          'e16rf6ka' /* สวัสดีผู้เยี่ยมชม */,
+                                          'e16rf6ka' /* สวัสดีผู้เยี่ยมชม : */,
                                         ),
                                         style: FlutterFlowTheme.of(context)
                                             .subtitle2

@@ -79,7 +79,7 @@ class _HomeDashboardWidgetState extends State<HomeDashboardWidget> {
                                         24, 0, 0, 0),
                                     child: Text(
                                       FFLocalizations.of(context).getText(
-                                        '18gf65a3' /* สวัสดีผู้เยี่ยมชม */,
+                                        '18gf65a3' /* สวัสดีผู้เยี่ยมชม : */,
                                       ),
                                       style: FlutterFlowTheme.of(context)
                                           .subtitle2

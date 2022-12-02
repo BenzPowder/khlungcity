@@ -71,7 +71,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // homeDashboard
   {
     '18gf65a3': {
-      'th': 'สวัสดีผู้เยี่ยมชม',
+      'th': 'สวัสดีผู้เยี่ยมชม :',
       'en': 'Hello visitors',
     },
     '9hsxnag0': {
@@ -90,7 +90,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // travel
   {
     's4t2jrvh': {
-      'th': 'สวัสดีผู้เยี่ยมชม',
+      'th': 'สวัสดีผู้เยี่ยมชม :',
       'en': 'Hello visitors',
     },
     'rm7aj95m': {
@@ -105,7 +105,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // activity
   {
     'e16rf6ka': {
-      'th': 'สวัสดีผู้เยี่ยมชม',
+      'th': 'สวัสดีผู้เยี่ยมชม :',
       'en': 'Hello visitors',
     },
     'vm6csqor': {
@@ -128,7 +128,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // news
   {
     'ajj0s50v': {
-      'th': 'สวัสดีผู้เยี่ยมชม',
+      'th': 'สวัสดีผู้เยี่ยมชม :',
       'en': 'Hello visitors',
     },
     'ipp959k5': {
