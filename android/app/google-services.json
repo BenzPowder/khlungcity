@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "487069272483",
+    "firebase_url": "https://web-login-8775f.firebaseio.com",
+    "project_id": "web-login-8775f",
+    "storage_bucket": "web-login-8775f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487069272483:android:1e52ab0a382ca622b57216",
+        "android_client_info": {
+          "package_name": "com.mycompany.cooplamlukka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487069272483-7ji1eq1fkkhdmn8im7knlosgjeo0bfu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cooplamlukka",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "487069272483-l7edddb1edvhs03g6f3iad0chv29pldj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80QYyBMpetw95rWmRT0qTOuVHarfM93c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487069272483-l7edddb1edvhs03g6f3iad0chv29pldj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487069272483-03do8e0ufprvfrmns26u5dt2rrq2jp4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cooplamlukka"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487069272483:android:d5c4853bc443aa21b57216",
+        "android_client_info": {
+          "package_name": "com.mycompany.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487069272483-l7edddb1edvhs03g6f3iad0chv29pldj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80QYyBMpetw95rWmRT0qTOuVHarfM93c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487069272483-l7edddb1edvhs03g6f3iad0chv29pldj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487069272483-03do8e0ufprvfrmns26u5dt2rrq2jp4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cooplamlukka"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487069272483:android:3f830aa5528ae7f9b57216",
+        "android_client_info": {
+          "package_name": "com.nocodeui.adminpanel01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487069272483-l7edddb1edvhs03g6f3iad0chv29pldj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80QYyBMpetw95rWmRT0qTOuVHarfM93c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487069272483-l7edddb1edvhs03g6f3iad0chv29pldj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487069272483-03do8e0ufprvfrmns26u5dt2rrq2jp4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cooplamlukka"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487069272483:android:5a1192948d4c2dbbb57216",
+        "android_client_info": {
+          "package_name": "web2application.a191401648092151.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487069272483-niosqee0dkfjkt3ha81mm711rv0327ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "web2application.a191401648092151.com.myapplication",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "487069272483-l7edddb1edvhs03g6f3iad0chv29pldj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80QYyBMpetw95rWmRT0qTOuVHarfM93c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487069272483-l7edddb1edvhs03g6f3iad0chv29pldj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487069272483-03do8e0ufprvfrmns26u5dt2rrq2jp4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cooplamlukka"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

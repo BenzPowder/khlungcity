@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>487069272483-j0kdca7rfmos6cee2245id8tmkua0nud.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.487069272483-j0kdca7rfmos6cee2245id8tmkua0nud</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>487069272483-7ji1eq1fkkhdmn8im7knlosgjeo0bfu2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDzqq3Yi4zCD8psv40Yt1LYezpuABoF4f8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>487069272483</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nocodeui.adminpanel01</string>
+	<key>PROJECT_ID</key>
+	<string>web-login-8775f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>web-login-8775f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:487069272483:ios:55cc83536b4ee00cb57216</string>
+	<key>DATABASE_URL</key>
+	<string>https://web-login-8775f.firebaseio.com</string>
+</dict>
+</plist>
