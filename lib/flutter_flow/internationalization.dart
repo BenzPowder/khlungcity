@@ -71,8 +71,8 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // homeDashboard
   {
     '18gf65a3': {
-      'th': 'สวัสดีผู้เยี่ยมชม :',
-      'en': 'Hello visitors',
+      'th': 'สวัสดีผู้เยี่ยมชม1 :',
+      'en': 'Hello visitors :',
     },
     '9hsxnag0': {
       'th': 'หน้าหลัก',
